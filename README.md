@@ -1,6 +1,6 @@
 # faq-chatbot
 
-FAQ Chatbot is a machine learning based chatbot trained on FAQ dataset of [HDFC Bank](https://www.kaggle.com/abbbhishekkk/faq-datasets-for-chatbot-training?select=HDFC_Faq.txt)
+FAQ Chatbot is a machine learning based chatbot trained on FAQ [dataset](https://www.kaggle.com/abbbhishekkk/faq-datasets-for-chatbot-training?select=HDFC_Faq.txt) of HDFC Bank.
 
 - Libraries used:
   - Scikit-Learn
